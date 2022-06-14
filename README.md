@@ -2,7 +2,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wjbulikescoding&theme=dark&show_icons=true%22%3E]">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+I'm wjbulikescoding
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
