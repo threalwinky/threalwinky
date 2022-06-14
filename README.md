@@ -8,7 +8,6 @@ I'm wjbulikescoding
 <br>
 <div align="center">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=wjbulikescodingshow_icons=true&theme=radical" />
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=wjbulikescoding&hide=contribs,prs&theme=synthwave" />
+\
 </div>
 <br>
