@@ -15,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
   
   <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=dark"/>
 </div>
 <div>
  
