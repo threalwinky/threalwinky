@@ -83,7 +83,7 @@ Hi, I'm wjbulikescoding and here is my biograph ✋
 </div>
   
 <div>
-<h1> view's count :  <h1>
+<h3> view's count :  <h3>
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=wjbulikescoding&style=plastic&color=brightgreen)
