@@ -1,5 +1,4 @@
-
-Hi, I'm wjbulikescoding ✋
+###Hi, I'm wjbulikescoding ✋
 
 ---
 
@@ -79,6 +78,24 @@ Hi, I'm wjbulikescoding ✋
 <div>
 
 ---
+### ::My stats:
+</p>
+ <br >
+  <p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wjbulikescoding&show_icons=true&theme=dark" />
+  </p>
+<br>
+
+---
+### ::Achivement:
+</p>
+ <br >
+  <p align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wjbulikescoding&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  </p>
+<br>
+
+---
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761123be2b5846e1cecda336441102920292e25a258d&rid=giphy.gif&ct=g" width="500"/>
 </div>
@@ -89,4 +106,13 @@ Hi, I'm wjbulikescoding ✋
 
 ![](https://komarev.com/ghpvc/?username=wjbulikescoding&style=plastic&color=brightgreen)
 <div>
+  <a href="https://github.com/wjbulikescoding?tab=followers">
+    <img src="https://img.shields.io/github/followers/wjbulikescoding?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+</a>
 <div>
+
+
+<br>
+    <p>
+
+  
