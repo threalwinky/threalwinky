@@ -1,4 +1,4 @@
-###Hi, I'm wjbulikescoding ✋
+<h2> Hi, I'm wjbulikescoding ✋ <h2>
 
 ---
 
@@ -78,7 +78,7 @@
 <div>
 
 ---
-### ::My stats:
+### 📋:My stats:
 </p>
  <br >
   <p align = "center">
@@ -87,7 +87,7 @@
 <br>
 
 ---
-### ::Achivement:
+### 🏅:Achivement:
 </p>
  <br >
   <p align = "center">
