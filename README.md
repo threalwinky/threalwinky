@@ -17,7 +17,9 @@
   <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" title="Java" alt="Java" width="40" height="40"/>
   
 </div>
+  <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=dark"/>
+  </div>
 <div>
  
 ---
