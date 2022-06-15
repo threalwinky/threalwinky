@@ -18,7 +18,7 @@
   
 </div>
   <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=dark"/>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&layout=compact&theme=dark"/>
   </div>
 <div>
  
