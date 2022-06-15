@@ -52,8 +52,8 @@ Hi, I'm wjbulikescoding ✋
   <a href="https://www.facebook.com/profile.php?id=100034407557199">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
-  <a href="https://github.com/wjbulikescoding">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  <a href="https://zalo.me/0332558174">
+    <img src="https://img.shields.io/badge/Zalo-blue?style=for-the-badge&logo=Zalo&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.instagram.com/kayle_911/">
     <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
