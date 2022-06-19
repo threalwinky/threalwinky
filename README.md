@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
   <a href="https://zalo.me/0332558174">
-    <img src="https://img.shields.io/badge/Zalo-blue?style=for-the-badge&logo=Zalo&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Zalo-blue?style=for-the-badge&logo=Zalo&logoColor=white" alt="Zalo Badge"/>
   </a>
   <a href="https://www.instagram.com/kayle_911/">
     <img src="https://img.shields.io/badge/Instagram-rainbow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -72,6 +72,9 @@
   </a>
   <a href="https://trello.com/voquangvu09112006/boards">
     <img src="https://img.shields.io/badge/Trello-darkblue?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge"/>
+  </a>
+  <a href="https://gitlab.com/wjbulikescoding">
+    <img src="https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199213454484/">
     <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
