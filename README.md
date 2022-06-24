@@ -2,7 +2,7 @@
 
 ---
 
-[![Spotify](https://wjbulikescoding.vercel.app/api/spotify)](https://open.spotify.com/user/317kafuqbev46sq43z2u3zjjbpym)
+
 
 ### 💻: Languages :
 <div>
