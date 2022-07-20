@@ -1,9 +1,12 @@
-<h2> Hi, I'm wjbulikescoding ✋ <h2>
+<h1 align> Hi, I'm wjbulikescoding ✋ <h1>
 
 ---
 
+<div id="header" align="center">
+  <img src="https://c.tenor.com/PX2XATCduFcAAAAC/loli.gif"/>
+</div>
 
-
+---
 ### 💻: Languages :
 <div>
   <div align="center">
@@ -104,10 +107,7 @@
   </p>
 <br>
 
----
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761123be2b5846e1cecda336441102920292e25a258d&rid=giphy.gif&ct=g" width="500"/>
-</div>
+
   
 <div>
 <h4> view's count :  <h4>
