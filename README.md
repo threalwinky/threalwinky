@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h3> About me
+  <h2> About me
     <img src = "config/dancingcat.gif" width = 32px>
   <div>
       <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming+and+web+design;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT">
@@ -12,13 +12,13 @@
       <a href = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true"><img src = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" height = 250 width =300>
       </a>
   </div>
-  </h3>
+  </h2>
 </div>
 
 
 <!--Programming Languages-->
 <div>
-  <h3>💻 :Languages: 
+  <h2>💻 :Languages: 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   <div align="center">
   <img src="config/c.svg" title="C" alt="C" width="40" height="40"/>
@@ -32,13 +32,13 @@
     <img width = "300" src = 
       https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&hide=tex&theme=dracula&layout=compact&langs_count=6>
   </div>
-  </h3>
+  </h2>
 </div>
 
 <!--IDE-->
 <div>
-  <h3>⌨️ :IDE and Tools: 
-    <img src = "https://media2.giphy.com/media/zOx4kKZLsfuqShoh3t/giphy.gif?cid=ecf05e47fc7zyhzlatnyzcs7agnxan8gse9clnt7zj5hk6xa&rid=giphy.gif&ct=s" width = 32px>
+  <h2>⌨️ :IDE and Tools: 
+    <img src = "https://media2.giphy.com/media/zOx4kKZLsfuqShoh2t/giphy.gif?cid=ecf05e47fc7zyhzlatnyzcs7agnxan8gse9clnt7zj5hk6xa&rid=giphy.gif&ct=s" width = 32px>
     <div align="center">
     <img src="config/sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>
     <img src="config/notepad.svg" title="Notepad++" alt="Notepad++" width="40" height="40"/>
@@ -49,12 +49,12 @@
     <img src="config/arduino.png" title="Arduino" alt="Arduino" width="40" height="40"/>
     <img src="config/AP.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>
   </div>
-  </h3>
+  </h2>
 </div>
 
 <!--Information-->
 <div>
-  <h3>📱 :Connect with me:
+  <h2>📱 :Connect with me:
     <img src = "https://media0.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e477hmzbzil27a59wb06ing9uwwcf2pi30sn41nsx67&rid=giphy.gif&ct=s" width = 32px>
     <div align = "center">
       <a href="https://www.facebook.com/profile.php?id=100034407557199">
@@ -99,7 +99,7 @@
       </div>
      </details>
   </h5>
-  </h3>
+  </h2>
   
 </div>
 
@@ -107,30 +107,30 @@
 <!--Wakatime-->
 <div>
 
-  <h3>🕐 :Wakatime: 
+  <h2>🕐 :Wakatime: 
     <div align = "center">
       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=iwttry&theme=dracula&layout=compact" height = 200 width = 600>
     </div>
-  </h3>
+  </h2>
 
 </div>
 
 <!--Stats-->
 
 <div>
-  <h3>📋 :Stats:
+  <h2>📋 :Stats:
     <div align = "center">
       <img src = "https://github-readme-stats.vercel.app/api?username=wjbulikescoding&show_icons=true&theme=dracula">
       <img src="https://github-profile-trophy.vercel.app/?username=wjbulikescoding&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
     </div>
-  </h3>
+  </h2>
 
 </div>
 
 <!--Repository-->
 
 <div>
-  <h3>💾 :Top repo:
+  <h2>💾 :Top repo:
     <div align = "center">
       <a href = https://github.com/wjbulikescoding/CP-Lib>
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=CP-Lib&theme=dracula" height = 250 width = 400>
@@ -139,12 +139,12 @@
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=DS-AL&theme=dracula" height = 250 width = 400>
       </a>
     </div>
-  </h3>
+  </h2>
 
 <!--Conclusion-->
 
 <div id="header" align="center">
-  <h3> Anou...hope you a special day </h3>
+  <h2> Anou...hope you a special day </h2>
   <img src="config/loli.gif">
 </div>
 
