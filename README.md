@@ -6,8 +6,8 @@
   <h2> About me
     <img src = "config/dancingcat.gif" width = 32px>
   <div align = "center">
-      <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming+and+web+design;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inika&multiline=true&duration=2000&pause=1000&color=F60E80&background=209CFF00&vCenter=true&height=250&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming+and+web+design;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT;And;I+love+anime+at+all+!!!" alt="Typing SVG" />
+      <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inika&multiline=true&duration=2000&pause=1000&color=F60E80&background=209CFF00&vCenter=true&height=250&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT;And;I+love+anime+at+all+!!!" alt="Typing SVG" />
       </a>
       <a href = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true"><img src = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" height = 250 width =300>
       </a>
