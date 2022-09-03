@@ -3,22 +3,22 @@
 </div>
 
 <div>
-  <h1> About me
+  <h3> About me
     <img src = "config/dancingcat.gif" width = 32px>
   <div>
       <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming+and+web+design;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT">
           <img src="https://readme-typing-svg.herokuapp.com?font=Inika&multiline=true&duration=2000&pause=1000&color=F60E80&background=209CFF00&vCenter=true&height=250&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming+and+web+design;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT;And;I+love+anime+at+all+!!!" alt="Typing SVG" />
       </a>
-      <a href = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true"><img align = "right"src = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" height = 250 width =300>
+      <a href = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true"><img src = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" height = 250 width =300>
       </a>
   </div>
-  </h1>
+  </h3>
 </div>
 
 
 <!--Programming Languages-->
 <div>
-  <h1>💻 :Languages: 
+  <h3>💻 :Languages: 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   <div align="center">
   <img src="config/c.svg" title="C" alt="C" width="40" height="40"/>
@@ -32,13 +32,13 @@
     <img width = "300" src = 
       https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&hide=tex&theme=dracula&layout=compact&langs_count=6>
   </div>
-  </h1>
+  </h3>
 </div>
 
 <!--IDE-->
 <div>
-  <h1>⌨️ :IDE and Tools: 
-    <img src = "https://media2.giphy.com/media/zOx4kKZLsfuqShoh2t/giphy.gif?cid=ecf05e47fc7zyhzlatnyzcs7agnxan8gse9clnt7zj5hk6xa&rid=giphy.gif&ct=s" width = 32px>
+  <h3>⌨️ :IDE and Tools: 
+    <img src = "https://media2.giphy.com/media/zOx4kKZLsfuqShoh3t/giphy.gif?cid=ecf05e47fc7zyhzlatnyzcs7agnxan8gse9clnt7zj5hk6xa&rid=giphy.gif&ct=s" width = 32px>
     <div align="center">
     <img src="config/sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>
     <img src="config/notepad.svg" title="Notepad++" alt="Notepad++" width="40" height="40"/>
@@ -49,12 +49,12 @@
     <img src="config/arduino.png" title="Arduino" alt="Arduino" width="40" height="40"/>
     <img src="config/AP.png" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>
   </div>
-  </h1>
+  </h3>
 </div>
 
 <!--Information-->
 <div>
-  <h1>📱 :Connect with me:
+  <h3>📱 :Connect with me:
     <img src = "https://media0.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e477hmzbzil27a59wb06ing9uwwcf2pi30sn41nsx67&rid=giphy.gif&ct=s" width = 32px>
     <div align = "center">
       <a href="https://www.facebook.com/profile.php?id=100034407557199">
@@ -85,7 +85,7 @@
         <img src="config/steam.svg" alt="Steam Badge"/ width = "40" height = "40">
       </a>
     </div>
-    <h3>
+    <h5>
       <details>
       <summary> 📈 Do you want to check my profile of CP related various Online Judges? Click here!:</summary>
       <div align="center">
@@ -95,11 +95,11 @@
         <a href="https://leetcode.com/wjbulikescoding/"><img src = "config/leetcode.png" witdh = 20 height = 20> Leetcode </a><br>
         <a href="https://www.hackerrank.com/thuangailelouch"><img src = "config/hr.png" witdh = 20 height = 20> Hackerrank </a><br>
         <a href="https://www.spoj.com/users/caubengokngek/"><img src = "config/spoj.jfif" witdh = 20 height = 20> SPOJ </a><br>
-        <h4>Many more are coming soon...</h4> :clap:
+        <h6>Many more are coming soon...</h6> :clap:
       </div>
      </details>
+  </h5>
   </h3>
-  </h1>
   
 </div>
 
@@ -107,30 +107,30 @@
 <!--Wakatime-->
 <div>
 
-  <h1>🕐 :Wakatime: 
+  <h3>🕐 :Wakatime: 
     <div align = "center">
       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=iwttry&theme=dracula&layout=compact" height = 200 width = 600>
     </div>
-  </h1>
+  </h3>
 
 </div>
 
 <!--Stats-->
 
 <div>
-  <h1>📋 :Stats:
+  <h3>📋 :Stats:
     <div align = "center">
       <img src = "https://github-readme-stats.vercel.app/api?username=wjbulikescoding&show_icons=true&theme=dracula">
       <img src="https://github-profile-trophy.vercel.app/?username=wjbulikescoding&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
     </div>
-  </h1>
+  </h3>
 
 </div>
 
 <!--Repository-->
 
 <div>
-  <h1>💾 :Top repo:
+  <h3>💾 :Top repo:
     <div align = "center">
       <a href = https://github.com/wjbulikescoding/CP-Lib>
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=CP-Lib&theme=dracula" height = 250 width = 400>
@@ -139,12 +139,12 @@
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=DS-AL&theme=dracula" height = 250 width = 400>
       </a>
     </div>
-  </h1>
+  </h3>
 
 <!--Conclusion-->
 
 <div id="header" align="center">
-  <h1> Anou...hope you a special day </h1>
+  <h3> Anou...hope you a special day </h3>
   <img src="config/loli.gif">
 </div>
 
