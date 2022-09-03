@@ -62,7 +62,7 @@
         <img src="config/gmail.svg" alt="Gmail Badge"/ width = "40" height = "40">
       </a>
       <a href="https://zalo.me/0332558174">
-        <img src="config/zalo.svg" alt="Zalo Badge"/ width = "40" height = "40">
+        <img src="config/zalo2.webp" alt="Zalo Badge"/ width = "40" height = "40">
       </a>
       <a href="https://www.instagram.com/iwttry/">
         <img src="config/instagram.svg" alt="Instagram Badge"/ width = "40" height = "40">
