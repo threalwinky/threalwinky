@@ -43,7 +43,7 @@
     <img src="config/sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>
     <img src="config/notepad.svg" title="Notepad++" alt="Notepad++" width="40" height="40"/>
     <img src="config/vs-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="config/neovim.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
+    <img src="config/vim.svg" title="Vim" alt="Vim" width="40" height="40"/>
     <br>
     <img src="config/AS.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
     <img src="config/arduino.png" title="Arduino" alt="Arduino" width="40" height="40"/>
