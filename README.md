@@ -157,7 +157,7 @@
 <div>
   <img src = "https://komarev.com/ghpvc/?username=iwttry&style=plastic&color=brightgreen">
   <a href="https://github.com/wjbulikescoding?tab=followers">
-    <img src="https://img.shields.io/github/followers/wjbulikescoding?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/iwttry?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
 </a>
 <div>
 <br>
