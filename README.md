@@ -30,7 +30,7 @@
   </div>
   <div align="center">
     <img width = "300" src = 
-      https://github-readme-stats.vercel.app/api/top-langs/?username=wjbulikescoding&hide=tex&theme=dracula&layout=compact&langs_count=6>
+      https://github-readme-stats.vercel.app/api/top-langs/?username=iwttry&hide=tex&theme=dracula&layout=compact&langs_count=6>
   </div>
   </h2>
 </div>
@@ -120,8 +120,8 @@
 <div>
   <h2>📋 :Stats:
     <div align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api?username=wjbulikescoding&show_icons=true&theme=dracula">
-      <img src="https://github-profile-trophy.vercel.app/?username=wjbulikescoding&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
+      <img src = "https://github-readme-stats.vercel.app/api?username=iwttry&show_icons=true&theme=dracula">
+      <img src="https://github-profile-trophy.vercel.app/?username=iwttry&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
     </div>
   </h2>
 
@@ -133,10 +133,10 @@
   <h2>💾 :Top repo:
     <div align = "center">
       <a href = https://github.com/wjbulikescoding/CP-Lib>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=CP-Lib&theme=dracula" height = 250 width = 400>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=iwttry&repo=CP-Lib&theme=dracula" height = 250 width = 400>
       </a>
       <a href = https://github.com/wjbulikescoding/DS-AL>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=wjbulikescoding&repo=DS-AL&theme=dracula" height = 250 width = 400>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=iwttry&repo=DS-AL&theme=dracula" height = 250 width = 400>
       </a>
     </div>
   </h2>
@@ -155,7 +155,7 @@
 <h4> view's count :  <h4>
 <div align="center">
 <div>
-  <img src = "https://komarev.com/ghpvc/?username=wjbulikescoding&style=plastic&color=brightgreen">
+  <img src = "https://komarev.com/ghpvc/?username=iwttry&style=plastic&color=brightgreen">
   <a href="https://github.com/wjbulikescoding?tab=followers">
     <img src="https://img.shields.io/github/followers/wjbulikescoding?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
 </a>
