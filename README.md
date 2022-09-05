@@ -25,6 +25,7 @@
   <img src="config/cpp.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="config/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   <img src="config/python.svg" alt="Python" width="40" height="40"/>
+  <img src="config/js.jpg" title="Javascript" alt="Javascript" width="40" height="40"/>
   <img src="config/html.svg" title="HTML" alt="HTML" width="40" height="40"/>
   <img src="config/css.svg" title="CSS" alt="CSS" width="40" height="40"/>
   </div>
