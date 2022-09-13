@@ -6,8 +6,8 @@
   <h2> About me
     <img src = "config/dancingcat.gif" width = 32px>
   <div align = "center">
-      <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inika&multiline=true&duration=2000&pause=1000&color=F60E80&background=209CFF00&vCenter=true&height=250&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22iwttry%22;Dream+school+%3F;Ye+HCMUT;And;I+love+anime+at+all+!!!" alt="Typing SVG" />
+      <a href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22winkyyyyy%22;Dream+school+%3F;Ye+HCMUT">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inika&multiline=true&duration=2000&pause=1000&color=F60E80&background=209CFF00&vCenter=true&height=250&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22winky%22;Dream+school+%3F;Ye+HCMUT;And;I+love+anime+at+all+!!!" alt="Typing SVG" />
       </a>
       <a href = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true"><img src = "https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" height = 250 width =300>
       </a>
@@ -31,7 +31,7 @@
   </div>
   <div align="center">
     <img width = "300" src = 
-      https://github-readme-stats.vercel.app/api/top-langs/?username=iwttry&hide=tex&theme=dracula&layout=compact&langs_count=6>
+      https://github-readme-stats.vercel.app/api/top-langs/?username=winkyyyyy&hide=tex&theme=dracula&layout=compact&langs_count=6>
   </div>
   </h2>
 </div>
@@ -67,7 +67,7 @@
       <a href="https://zalo.me/0332558174">
         <img src="config/zalo2.webp" alt="Zalo Badge"/ width = "40" height = "40">
       </a>
-      <a href="https://www.instagram.com/iwttry/">
+      <a href="https://www.instagram.com/winkyyyyy/">
         <img src="config/instagram.svg" alt="Instagram Badge"/ width = "40" height = "40">
       </a>
       <a href="https://www.youtube.com/channel/UCRgUlpqUC72yH0aE3HgrD8Q">
@@ -110,7 +110,7 @@
 
   <h2>🕐 :Wakatime: 
     <div align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=iwttry&theme=dracula" height = 200 width = 600>
+      <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winkyyyyy&theme=dracula" height = 200 width = 600>
     </div>
   </h2>
 
@@ -121,8 +121,8 @@
 <div>
   <h2>📋 :Stats:
     <div align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api?username=iwttry&show_icons=true&theme=dracula">
-      <img src="https://github-profile-trophy.vercel.app/?username=iwttry&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
+      <img src = "https://github-readme-stats.vercel.app/api?username=winkyyyyy&show_icons=true&theme=dracula">
+      <img src="https://github-profile-trophy.vercel.app/?username=winkyyyyy&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
     </div>
   </h2>
 
@@ -134,10 +134,10 @@
   <h2>💾 :Top repo:
     <div align = "center">
       <a href = https://github.com/wjbulikescoding/CP-Lib>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=iwttry&repo=CP-Lib&theme=dracula" height = 250 width = 400>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=winkyyyyy&repo=CP-Lib&theme=dracula" height = 250 width = 400>
       </a>
       <a href = https://github.com/wjbulikescoding/DS-AL>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=iwttry&repo=DS-AL&theme=dracula" height = 250 width = 400>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=winkyyyyy&repo=DS-AL&theme=dracula" height = 250 width = 400>
       </a>
     </div>
   </h2>
@@ -156,9 +156,9 @@
 <h4> view's count :  <h4>
 <div align="center">
 <div>
-  <img src = "https://komarev.com/ghpvc/?username=iwttry&style=plastic&color=brightgreen">
+  <img src = "https://komarev.com/ghpvc/?username=winkyyyyy&style=plastic&color=brightgreen">
   <a href="https://github.com/wjbulikescoding?tab=followers">
-    <img src="https://img.shields.io/github/followers/iwttry?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/winkyyyyy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
 </a>
 <div>
 <br>
