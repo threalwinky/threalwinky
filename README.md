@@ -110,10 +110,11 @@
 
   <h2>🕐 :Wakatime: 
     <div align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=threalwinky&theme=dracula" height = 200 width = 600>
+      <!--img src = "https://github-readme-stats.vercel.app/api/wakatime?username=threalwinky&theme=dracula" height = 200 width = 600-->
     </div>
   </h2>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 <!--Stats-->
