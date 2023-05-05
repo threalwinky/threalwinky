@@ -21,7 +21,7 @@
   <h2>💻 :Languages: 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
   <div align="center">
-  <img src="config/c.svg" title="C" alt="C" width="40" height="40"/>
+  <img href = "spotify.com" src="config/c.svg" title="C" alt="C" width="40" height="40"/>
   <img src="config/cpp.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="config/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   <img src="config/python.svg" alt="Python" width="40" height="40"/>
@@ -64,7 +64,7 @@
       <a href="mailto:voquangvu09112006@gmail.com">
         <img src="config/gmail.svg" alt="Gmail Badge"/ width = "40" height = "40">
       </a>
-      <a href="https://zalo.me/0332558174">
+      <a href="https://zalo.me/0777473911">
         <img src="config/zalo2.webp" alt="Zalo Badge"/ width = "40" height = "40">
       </a>
       <a href="https://www.instagram.com/threalwinky/">
