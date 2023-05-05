@@ -116,6 +116,13 @@
 
 </div>
 <!--START_SECTION:waka-->
+
+```text
+C++          14 hrs 43 mins  ██████████████████████▓░░   90.34 %
+Vim Script   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+```
+
 <!--END_SECTION:waka-->
 <!--Stats-->
 
