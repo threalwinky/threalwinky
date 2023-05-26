@@ -30,8 +30,8 @@
   <img src="config/css.svg" title="CSS" alt="CSS" width="40" height="40"/>
   </div>
   <div align="center">
-    <img width = "300" src = 
-      https://github-readme-stats.vercel.app/api/top-langs/?username=threalwinky&hide=tex&theme=dracula&layout=compact&langs_count=6>
+    <!--img width = "300" src = 
+      https://github-readme-stats.vercel.app/api/top-langs/?username=threalwinky&hide=tex&theme=dracula&layout=compact&langs_count=6-->
   </div>
   </h2>
 </div>
@@ -131,7 +131,7 @@ JSON     0 secs          ░░░░░░░░░░░░░░░░░░�
 <div>
   <h2>📋 :Stats:
     <div align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api?username=threalwinky&show_icons=true&theme=dracula">
+      <!--img src = "https://github-readme-stats.vercel.app/api?username=threalwinky&show_icons=true&theme=dracula"-->
       <img src="https://github-profile-trophy.vercel.app/?username=threalwinky&theme=dracula&margin-w=15&margin-h=15&row=2&column=3"/>
     </div>
   </h2>
@@ -140,7 +140,7 @@ JSON     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--Repository-->
 
-<div>
+<!--div>
   <h2>💾 :Top repo:
     <div align = "center">
       <a href = https://github.com/wjbulikescoding/CP-Lib>
@@ -150,7 +150,7 @@ JSON     0 secs          ░░░░░░░░░░░░░░░░░░�
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=DS-AL&theme=dracula" height = 250 width = 400>
       </a>
     </div>
-  </h2>
+  </h2-->
 
 <!--Conclusion-->
 
