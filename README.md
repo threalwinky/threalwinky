@@ -4,7 +4,7 @@
 <!-- <iframe src="https://ideone.com/embed/vUoVMH" width="100%" height="300px" frameborder="0" style="border: 1px solid #c0c0c0; overflow-x: hidden;" bis_size="{&quot;x&quot;:8,&quot;y&quot;:26,&quot;w&quot;:1521,&quot;h&quot;:301,&quot;abs_x&quot;:8,&quot;abs_y&quot;:26}"></iframe> -->
 <div>
   <h2> About me &nbsp;
-    <img src="config/dancingcat.gif" width=32px style="border-radius:50px; position: absolute;">
+    <img src="config/dancingcat.gif" width=32px style="border-radius:50px;">
     <div align="center">
       <a
         href="https://readme-typing-svg.herokuapp.com?font=Inika&duration=2000&pause=1000&color=27F791&background=209CFF00&vCenter=true&height=30&lines=I'm+Vu;I'm+still+a+student+at+Tran+Phu+High+School;Hobby+%3F+;Competitive+programming;You+can+search+me+on+CP+webs+as+%22winky%22;Dream+school+%3F;Ye+HCMUT">
