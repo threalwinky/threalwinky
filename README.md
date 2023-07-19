@@ -172,7 +172,7 @@
       <div align="center">
         <div>
           <img src="https://komarev.com/ghpvc/?username=threalwinky&style=plastic&color=brightgreen">
-          <a href="https://github.com/wjbulikescoding?tab=followers">
+          <a href="https://github.com/threalwinky?tab=followers">
             <img
               src="https://img.shields.io/github/followers/threalwinky?label=Followers&logo=GitHub&style=for-the-badge"
               alt="GitHub Followers" />
