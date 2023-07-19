@@ -71,47 +71,47 @@
       width=32px>
     <div align="center">
       <a href="https://www.facebook.com/winky.no.sl33p">
-        <img src="config/facebook.svg" alt="FaceBook Badge" / width="40" height="40">
+        <img src="config/contact/facebook.svg" alt="FaceBook Badge" / width="40" height="40">
       </a>
       <a href="mailto:voquangvu09112006@gmail.com">
-        <img src="config/gmail.svg" alt="Gmail Badge" / width="40" height="40">
+        <img src="config/contact/gmail.svg" alt="Gmail Badge" / width="40" height="40">
       </a>
       <a href="https://zalo.me/0777473911">
-        <img src="config/zalo2.webp" alt="Zalo Badge" / width="40" height="40">
+        <img src="config/contact/zalo2.webp" alt="Zalo Badge" / width="40" height="40">
       </a>
       <a href="https://www.instagram.com/threalwinky/">
-        <img src="config/instagram.svg" alt="Instagram Badge" / width="40" height="40">
+        <img src="config/contact/instagram.svg" alt="Instagram Badge" / width="40" height="40">
       </a>
       <a href="https://www.youtube.com/channel/UCRgUlpqUC72yH0aE3HgrD8Q">
-        <img src="config/youtube.svg" alt="Youtube Badge" / width="40" height="40">
+        <img src="config/contact/youtube.svg" alt="Youtube Badge" / width="40" height="40">
       </a>
       <a href="https://open.spotify.com/user/317kafuqbev46sq43z2u3zjjbpym?si=12b3f867de3a4744">
-        <img src="config/spotify.svg" alt="Spotify Badge" / width="40" height="40">
+        <img src="config/contact/spotify.svg" alt="Spotify Badge" / width="40" height="40">
       </a>
       <a href="https://trello.com/voquangvu09112006/boards">
-        <img src="config/trello.svg" alt="Trello Badge" / width="40" height="40">
+        <img src="config/contact/trello.svg" alt="Trello Badge" / width="40" height="40">
       </a>
       <a href="https://gitlab.com/wjbulikescoding">
-        <img src="config/gitlab.svg" alt="Gitlab Badge" / width="40" height="40">
+        <img src="config/contact/gitlab.svg" alt="Gitlab Badge" / width="40" height="40">
       </a>
       <a href="https://steamcommunity.com/profiles/76561199213454484/">
-        <img src="config/steam.svg" alt="Steam Badge" / width="40" height="40">
+        <img src="config/contact/steam.svg" alt="Steam Badge" / width="40" height="40">
       </a>
     </div>
     <h5>
       <details>
         <summary> 📈 Do you want to check my profile of CP related various Online Judges? Click here!:</summary>
         <div align="center">
-          <a href="https://codeforces.com/profile/sadboiz"><img src="config/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
+          <a href="https://codeforces.com/profile/sadboiz"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
           </a><br>
-          <a href="https://oj.vnoi.info/user/lelouchorz"><img src="config/vnoj.png" witdh=20 height=20> VNOJ </a><br>
-          <a href="https://oj.luyencode.net/user-home?username=vux123"><img src="config/luyencode.png" witdh=20
+          <a href="https://oj.vnoi.info/user/lelouchorz"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
+          <a href="https://oj.luyencode.net/user-home?username=vux123"><img src="config/cp_webs/luyencode.png" witdh=20
               height=20 style="border-radius: 50%;"> Luyencode </a><br>
-          <a href="https://leetcode.com/wjbulikescoding/"><img src="config/leetcode.png" witdh=20 height=20> Leetcode
+          <a href="https://leetcode.com/wjbulikescoding/"><img src="config/cp_webs/leetcode.png" witdh=20 height=20> Leetcode
           </a><br>
-          <a href="https://www.hackerrank.com/thuangailelouch"><img src="config/hr.png" witdh=20 height=20> Hackerrank
+          <a href="https://www.hackerrank.com/thuangailelouch"><img src="config/cp_webs/hr.png" witdh=20 height=20> Hackerrank
           </a><br>
-          <a href="https://www.spoj.com/users/caubengokngek/"><img src="config/spoj.jfif" witdh=20 height=20 style="border-radius: 50%;"> SPOJ
+          <a href="https://www.spoj.com/users/caubengokngek/"><img src="config/cp_webs/spoj.jfif" witdh=20 height=20 style="border-radius: 50%;"> SPOJ
           </a><br>
           <h6>Many more are coming soon...</h6> :clap:
         </div>
