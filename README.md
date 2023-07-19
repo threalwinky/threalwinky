@@ -94,9 +94,6 @@
       <a href="https://gitlab.com/wjbulikescoding">
         <img src="config/contact/gitlab.svg" alt="Gitlab Badge" / width="40" height="40">
       </a>
-      <a href="https://steamcommunity.com/profiles/76561199213454484/">
-        <img src="config/contact/steam.svg" alt="Steam Badge" / width="40" height="40">
-      </a>
     </div>
     <h5>
       <details>
