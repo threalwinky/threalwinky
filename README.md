@@ -124,7 +124,8 @@
 
   <h2>🕐 :Wakatime:
     <div align="center">
-      <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=dracula&layout=compact&langs_count=6" height = 200 width = 600
+<!--       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=dracula&layout=compact&langs_count=6" height = 200 width = 600> -->
+      <img src = "https://camo.githubusercontent.com/1303bf7dc5a9cbfea4c99f8a37c0b775305441419b62bfb342b6bbad3d2fb9a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d77696e6b79267468656d653d64726163756c61266c61796f75743d636f6d70616374266c616e67735f636f756e743d36" height = 200 width = 600>
     </div>
   </h2>
 
