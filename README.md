@@ -99,7 +99,7 @@
       <details>
         <summary> 📈 Do you want to check my profile of CP related various Online Judges? Click here!:</summary>
         <div align="center">
-          <a href="https://codeforces.com/profile/sadboiz"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
+          <a href="https://codeforces.com/profile/threalwinky"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
           </a><br>
           <a href="https://oj.vnoi.info/user/lelouchorz"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
           <a href="https://oj.luyencode.net/user-home?username=vux123"><img src="config/cp_webs/luyencode.png" witdh=20
