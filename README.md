@@ -3,7 +3,7 @@
 </div>
 <!-- <iframe src="https://ideone.com/embed/vUoVMH" width="100%" height="300px" frameborder="0" style="border: 1px solid #c0c0c0; overflow-x: hidden;" bis_size="{&quot;x&quot;:8,&quot;y&quot;:26,&quot;w&quot;:1521,&quot;h&quot;:301,&quot;abs_x&quot;:8,&quot;abs_y&quot;:26}"></iframe> -->
 <div>
-  <h2> About me &nbsp;
+  About me &nbsp;
     <img src="config/dancingcat.gif" width=32px style="border-radius:50px;">
     <div align="center">
       <a
@@ -65,7 +65,7 @@
 
 <!--Information-->
 <div>
-  <h2>📱 :Connect with me:
+  📱 :Connect with me:
     <img
       src="https://media0.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e477hmzbzil27a59wb06ing9uwwcf2pi30sn41nsx67&rid=giphy.gif&ct=s"
       width=32px>
