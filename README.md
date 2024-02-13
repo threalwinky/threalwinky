@@ -102,7 +102,7 @@
           <a href="https://codeforces.com/profile/threalwinky"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
           </a><br>
           <a href="https://oj.vnoi.info/user/lelouchorz"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
-          <a href="https://oj.luyencode.net/user-home?username=vux123"><img src="config/cp_webs/luyencode.png" witdh=20
+          <a href="https://luyencode.net/user/winky"><img src="config/cp_webs/luyencode.png" witdh=20
               height=20 style="border-radius: 50%;"> Luyencode </a><br>
           <a href="https://leetcode.com/wjbulikescoding/"><img src="config/cp_webs/leetcode.png" witdh=20 height=20> Leetcode
           </a><br>
