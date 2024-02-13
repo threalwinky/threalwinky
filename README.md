@@ -148,11 +148,14 @@
 
   <h2>💾 :Top repo:
     <div align = "center">
-      <a href = https://github.com/wjbulikescoding/CP-Lib>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=CP-Lib&theme=dracula" height = 200 width = 400>
+      <a href = https://github.com/threalwinky/Mathmystic>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=Mathmystic&theme=dracula" height = 200 width = 400>
       </a>
-      <a href = https://github.com/wjbulikescoding/DS-AL>
+      <a href = https://github.com/threalwinky/DS-AL>
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=DS-AL&theme=dracula" height = 200 width = 400>
+      </a>
+      <a href = https://github.com/threalwinky/CP-Lib>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=CP-Lib&theme=dracula" height = 200 width = 400>
       </a>
     </div>
   </h2>
