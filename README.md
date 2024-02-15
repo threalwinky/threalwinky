@@ -151,8 +151,8 @@
       <a href = https://github.com/threalwinky/Mathmystic>
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=Mathmystic&theme=dracula" height = 200 width = 400>
       </a>
-      <a href = https://github.com/threalwinky/DS-AL>
-        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=DS-AL&theme=dracula" height = 200 width = 400>
+      <a href = https://github.com/threalwinky/cp_notebook>
+        <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=cp_notebook&theme=dracula" height = 200 width = 400>
       </a>
       <a href = https://github.com/threalwinky/CP-Lib>
         <img src = "https://github-readme-stats.vercel.app/api/pin/?username=threalwinky&repo=CP-Lib&theme=dracula" height = 200 width = 400>
