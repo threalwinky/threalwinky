@@ -6,7 +6,7 @@
   About me &nbsp;
     <img src="config/dancingcat.gif" width=32px style="border-radius:50px;">
     <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=750&height=200&lines=I'm+Vu+(winky);I'm+currently+studying+at+University+of+Information+Technology;Majors+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=750&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+University+of+Information+Technology;Majors+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
       <div align = "center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true" alt="Spotify Now Playing" width="390">
