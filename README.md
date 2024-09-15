@@ -1,35 +1,45 @@
+
+<!-- Greeting -->
+
 <div>
   <img src="config/style.svg" alt="css-in-readme"></img>
 </div>
-<!-- <iframe src="https://ideone.com/embed/vUoVMH" width="100%" height="300px" frameborder="0" style="border: 1px solid #c0c0c0; overflow-x: hidden;" bis_size="{&quot;x&quot;:8,&quot;y&quot;:26,&quot;w&quot;:1521,&quot;h&quot;:301,&quot;abs_x&quot;:8,&quot;abs_y&quot;:26}"></iframe> -->
+
+<!-- About -->
+
 <div>
-  About me &nbsp;
-    <img src="config/dancingcat.gif" width=32px style="border-radius:50px;">
-    <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=750&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+University+of+Information+Technology;Majors+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
-      <div align = "center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
-    <img  src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=F60E80&bar_color_cover=false" alt="Spotify Now Playing" width="390">
+
+  <h1>
+    About me 
+    <img src="config/dancingcat.gif" width=30px style="border-radius:50px;">
+  </h1>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=450&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+VNU-HCM+UIT;Majors+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
+  </div>
+</div>
+
+<br>
+<br>
+
+<!-- Music -->
+
+<div align=center ">
+
+ <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
+    <img  src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=F60E80&bar_color_cover=false" alt="Spotify Now Playing" width="390" height="120">
   </a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true" alt="Recently Played" width="420" height = "120">
-<br>
-<br>
-  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true&count=2" alt="Recently Played" width="420" height = "120">
 
 </div>
-      </a>
-    </div>
-    
-  </h2>
-</div>
-
 
 <!--Programming Languages-->
 <div>
   <h2>💻 :Languages:
-    <img
+  <br>
+  <br>
+    <!-- <img
       src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-      width=32px>
+      width=32px> -->
     <div align="center">
       <img src="config/languages/c.svg" title="C" alt="C" width="40" height="40" />
       <img src="config/languages/cpp.svg" title="C++" alt="C++" width="40" height="40" />
@@ -50,9 +60,11 @@
 <!--IDE-->
 <div>
   <h2>⌨️ :IDE and Tools:
-    <img
+  <br>
+  <br>
+    <!-- <img
       src="https://media2.giphy.com/media/zOx4kKZLsfuqShoh2t/giphy.gif?cid=ecf05e47fc7zyhzlatnyzcs7agnxan8gse9clnt7zj5hk6xa&rid=giphy.gif&ct=s"
-      width=32px>
+      width=32px> -->
     <div align="center">
       <img src="config/ides/sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40" />
       <img src="config/ides/notepad.svg" title="Notepad++" alt="Notepad++" width="40" height="40" />
@@ -68,10 +80,12 @@
 
 <!--Information-->
 <div>
-  📱 :Connect with me:
-    <img
+  <h2>📱 :Connect with me: 
+    <!-- <img
       src="https://media0.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e477hmzbzil27a59wb06ing9uwwcf2pi30sn41nsx67&rid=giphy.gif&ct=s"
-      width=32px>
+      width=32px> -->
+      <br>
+      <br>
     <div align="center">
       <a href="https://www.facebook.com/winky.no.sl33p">
         <img src="config/contact/facebook.svg" alt="FaceBook Badge" / width="40" height="40">
@@ -104,7 +118,7 @@
         <div align="center">
           <a href="https://codeforces.com/profile/threalwinky"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
           </a><br>
-          <a href="https://oj.vnoi.info/user/lelouchorz"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
+          <a href="https://oj.vnoi.info/user/winky"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
           <a href="https://luyencode.net/user/winky"><img src="config/cp_webs/luyencode.png" witdh=20
               height=20 style="border-radius: 50%;"> Luyencode </a><br>
           <a href="https://leetcode.com/wjbulikescoding/"><img src="config/cp_webs/leetcode.png" witdh=20 height=20> Leetcode
@@ -120,7 +134,6 @@
   </h2>
 
 </div>
-
 
 <!--Wakatime-->
 <div>
@@ -171,17 +184,17 @@
 </div>
 
 <!--More-->
-
+<br>
 </div>
 <div>
-  <h4> view's count : <h4>
+  <!-- <h4> view's count : <h4> -->
       <div align="center">
         <div>
-          <img src="https://komarev.com/ghpvc/?username=threalwinky&style=plastic&color=brightgreen">
-          <a href="https://github.com/threalwinky?tab=followers">
+          <img src="https://komarev.com/ghpvc/?username=threalwinky&style=plastic&color=brightgreen" height=20>
+          <a href="https://github.com/threalwinky?tab=followers" >
             <img
               src="https://img.shields.io/github/followers/threalwinky?label=Followers&logo=GitHub&style=for-the-badge"
-              alt="GitHub Followers" />
+              alt="GitHub Followers" height=20/>
           </a>
           <div>
             <br>
