@@ -14,7 +14,7 @@
     <img src="config/dancingcat.gif" width=30px style="border-radius:50px;">
   </h1>
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=450&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+VNU-HCM+UIT;Majors+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=450&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+VNU-HCM+UIT;Major+%3F;Information+Security+(Honors+Program);Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
   </div>
 </div>
 
