@@ -87,7 +87,7 @@
       <br>
       <br>
     <div align="center">
-      <a href="https://www.facebook.com/winky.no.sl33p">
+      <a href="https://www.facebook.com/threalwinky">
         <img src="config/contact/facebook.svg" alt="FaceBook Badge" / width="40" height="40">
       </a>
       <a href="mailto:voquangvu09112006@gmail.com">
