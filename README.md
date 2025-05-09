@@ -1,6 +1,7 @@
 
 <!-- Greeting -->
 
+
 <div>
   <img src="config/style.svg" alt="css-in-readme"></img>
 </div>
@@ -14,12 +15,13 @@
     <img src="config/dancingcat.gif" width=30px style="border-radius:50px;">
   </h1>
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=450&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+VNU-HCM+UIT;Major+%3F;Information+Security;Hobby+%3F;Competitive+programming+and+CTF;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F60E80&multiline=true&width=450&height=220&lines=I'm+Vu+(winky);I'm+currently+studying+at+VNU-HCM+UIT;Major+%3F;Information+Security;Hobby+%3F;Competitive+programming+and+CTFs;And;%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B!" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <br>
 <br>
+
 
 <!-- Music -->
 
@@ -43,8 +45,9 @@
     <div align="center">
       <img src="config/languages/c.svg" title="C" alt="C" width="40" height="40" />
       <img src="config/languages/cpp.svg" title="C++" alt="C++" width="40" height="40" />
-      <img src="config/languages/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />
+      <!-- <img src="config/languages/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40" /> -->
       <img src="config/languages/python.svg" alt="Python" width="40" height="40" />
+      <img src="config/languages/ts.png" title="Typescript" alt="Typescript" width="40" height="40" />
       <img src="config/languages/javascript.svg" title="Javascript" alt="Javascript" width="40" height="40" />
       <img src="config/languages/html.svg" title="HTML" alt="HTML" width="40" height="40" />
       <img src="config/languages/css.svg" title="CSS" alt="CSS" width="40" height="40" />
@@ -119,14 +122,14 @@
           <a href="https://codeforces.com/profile/threalwinky"><img src="config/cp_webs/cf.png" witdh=20 height=20 style="border-radius: 50%;"> Codeforces
           </a><br>
           <a href="https://oj.vnoi.info/user/winky"><img src="config/cp_webs/vnoj.png" witdh=20 height=20> VNOJ </a><br>
-          <a href="https://luyencode.net/user/winky"><img src="config/cp_webs/luyencode.png" witdh=20
+          <!-- <a href="https://luyencode.net/user/winky"><img src="config/cp_webs/luyencode.png" witdh=20
               height=20 style="border-radius: 50%;"> Luyencode </a><br>
           <a href="https://leetcode.com/wjbulikescoding/"><img src="config/cp_webs/leetcode.png" witdh=20 height=20> Leetcode
           </a><br>
           <a href="https://www.hackerrank.com/thuangailelouch"><img src="config/cp_webs/hr.png" witdh=20 height=20> Hackerrank
           </a><br>
           <a href="https://www.spoj.com/users/caubengokngek/"><img src="config/cp_webs/spoj.jfif" witdh=20 height=20 style="border-radius: 50%;"> SPOJ
-          </a><br>
+          </a><br> -->
           <h6>Many more are coming soon...</h6> :clap:
         </div>
       </details>
