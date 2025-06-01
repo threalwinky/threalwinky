@@ -1,6 +1,6 @@
 
 
-## 🖤 About Me
+## 💜 About Me
 
 - <strong>Name</strong>: Yuki Shiroi
 
@@ -201,7 +201,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=threalwinky&theme=discord&margin-w=15&margin-h=15&row=2&column=3" />
 </div>
 
-## 💜 Wakatime
+## 🖤 Wakatime
 
 <div align="center">
 <!--       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=dracula&layout=compact&langs_count=6" height = 200 width = 600> -->
