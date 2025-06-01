@@ -37,7 +37,7 @@
 
 - 🎮 Game is a part of my life. I like playing MOBA games and rhythm games.
 
-- 📝 I regularly write articles on [https://threalwinky.github.io](https://threalwinky.github.io)
+- 📝 I regularly write blogs on [https://threalwinky.github.io](https://threalwinky.github.io)
 
 ## 🟣 Languages
 
