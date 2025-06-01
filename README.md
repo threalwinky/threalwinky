@@ -24,7 +24,7 @@
 
 ## 🎵 Hobby
 
-- 🎼 I enjoy listening to music — especially pop, ballads, EDM, and every song by Nightcord at 25:00.
+- 🎼 I enjoy listening to music — especially pop, ballads, EDM, and every song by <strong>Nightcord at 25:00</strong>.
 
 <div align=center ">
 
