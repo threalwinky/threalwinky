@@ -1,11 +1,4 @@
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/44/e0/bb/44e0bbb84b90bdb133e5e155a84332e5.gif" width=500 />
-</p>
-
-<p align="center">
-  <em>“If music be the food of love, play on.”</em>
-</p>
 
 ## 🖤 About Me
 
@@ -236,20 +229,11 @@
 
 ---
 
-<div>
-  <!-- <h4> view's count : <h4> -->
-      <div align="center">
-        <div>
-          <img src="https://komarev.com/ghpvc/?username=threalwinky&style=plastic&color=brightgreen" height=20>
-          <a href="https://github.com/threalwinky?tab=followers" >
-            <img
-              src="https://img.shields.io/github/followers/threalwinky?label=Followers&logo=GitHub&style=for-the-badge"
-              alt="GitHub Followers" height=20/>
-          </a>
-          <div>
-            <br>
-            </div>
-        </div>
-      </div>
-      </h4>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/e0/bb/44e0bbb84b90bdb133e5e155a84332e5.gif" width=500 />
+</p>
+
+<p align="center">
+  <em>“If music be the food of love, play on.”</em>
+</p>
+
