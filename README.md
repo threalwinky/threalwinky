@@ -1,5 +1,4 @@
 
-
 ## 💜 About Me
 
 - <strong>Name</strong>: Yuki Shiroi
@@ -20,7 +19,7 @@
 
 - 🌱 I’m currently learning **CTF, Web exploitation, Network Security**
 
-- [Windows](https://www.microsoft.com/vi-vn/windows?r=1) / [Arch Linux](https://archlinux.org/) / [Firefox](https://www.mozilla.org/) / [Sway](https://swaywm.org/) / [thunar](https://github.com/neilbrown/thunar) / [waybar](https://github.com/Alexays/Waybar) / [VSCode](https://code.visualstudio.com/)
+- [Arch Linux](https://archlinux.org/) / [Firefox](https://www.mozilla.org/) / [Sway](https://swaywm.org/) / [thunar](https://github.com/neilbrown/thunar) / [waybar](https://github.com/Alexays/Waybar) / [wofi](https://github.com/SimplyCEO/wofi) / [VSCode](https://code.visualstudio.com/)
 
 ## 🎵 Hobby
 
@@ -120,20 +119,13 @@
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"
       alt="nextjs"
       width="40"
       height="40"
+      style="border: 2px solid grey;"
     />
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -146,7 +138,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
       alt="nodejs"
       width="40"
       height="40"
