@@ -11,7 +11,7 @@
 
 ## Work
 
-- I’m currently playing CTF for [laevatain](https://ctftime.org/team/369034/)
+- I’m now playing CTF for [laevatain](https://ctftime.org/team/369034/)
 
 - I’m currently learning **CTF, Web exploitation, Network Security**
 
