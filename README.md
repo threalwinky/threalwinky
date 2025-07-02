@@ -1,5 +1,5 @@
 
-## 💜 About Me
+## About Me
 
 - <strong>Name</strong>: Yuki Shiroi
 
@@ -7,23 +7,19 @@
 
 - <strong>Horoscope</strong>: ♏
 
-- <strong>University</strong>: VNU-HCM University of Information Technology
-
-- <strong>Role</strong>: Undergraduate student
-
 - <strong>Personality</strong>: Introverted, thoughtful, emotionally complex
 
-## 🫐 Work
+## Work
 
-- 🔭 I’m currently playing CTF for [laevatain](https://ctftime.org/team/369034/)
+- I’m currently playing CTF for [laevatain](https://ctftime.org/team/369034/)
 
-- 🌱 I’m currently learning **CTF, Web exploitation, Network Security**
+- I’m currently learning **CTF, Web exploitation, Network Security**
 
-- [Arch Linux](https://archlinux.org/) / [Firefox](https://www.mozilla.org/) / [Sway](https://swaywm.org/) / [thunar](https://github.com/neilbrown/thunar) / [waybar](https://github.com/Alexays/Waybar) / [wofi](https://github.com/SimplyCEO/wofi) / [VSCode](https://code.visualstudio.com/)
+- [Arch Linux](https://archlinux.org/) / [Alacritty](https://alacritty.org/) / [Sway](https://swaywm.org/) / [thunar](https://github.com/neilbrown/thunar) / [waybar](https://github.com/Alexays/Waybar) / [rofi](https://github.com/davatorium/rofi)
 
-## 🎵 Hobby
+## Hobby
 
-- 🎼 I enjoy listening to music — especially pop, ballads, EDM, and every song by <strong>Nightcord at 25:00</strong>.
+- I enjoy listening to music — especially pop, ballads, EDM, and every song by <strong>Nightcord at 25:00</strong>.
 
 <div align=center ">
 
@@ -34,11 +30,11 @@
 
 </div>
 
-- 🎮 Game is a part of my life. I like playing MOBA games and rhythm games.
+- Game is a part of my life. I like playing MOBA games and rhythm games.
 
-- 📝 I regularly write blogs on [https://threalwinky.github.io](https://threalwinky.github.io)
+- I regularly write blogs on [https://threalwinky.github.io](https://threalwinky.github.io)
 
-## 🟣 Languages
+## Languages
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -108,7 +104,7 @@
         src=https://github-readme-stats.vercel.app/api/top-langs/?username=threalwinky&hide=tex&theme=discord_old_blurple&layout=compact&langs_count=10>
     </div>
 
-## 🟪 Tools
+## Tools
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -132,14 +128,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
-      alt="nodejs"
       width="40"
       height="40"
     />
@@ -186,38 +174,26 @@
   </a>
 </p>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
-      <img src = "https://github-readme-stats.vercel.app/api?username=threalwinky&show_icons=true&theme=discord_old_blurple">
-      <img src="https://github-profile-trophy.vercel.app/?username=threalwinky&theme=discord&margin-w=15&margin-h=15&row=2&column=3" />
+      <img src = "https://github-readme-stats.vercel.app/api?username=threalwinky&show_icons=true&theme=nord">
+      <img src="https://github-profile-trophy.vercel.app/?username=threalwinky&theme=nord&margin-w=15&margin-h=15&row=2&column=3" />
 </div>
 
-## 🖤 Wakatime
+## Wakatime
 
 <div align="center">
-<!--       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=dracula&layout=compact&langs_count=6" height = 200 width = 600> -->
-     <a href="https://wakatime.com/@winky">
-       <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=discord_old_blurple&layout=compact&langs_count=10" height = 200 width = 600>
-     </a>
-    </div>
+  <a href="https://wakatime.com/@winky">
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=winky&theme=nord&layout=compact&langs_count=6" height = 200 width = 600>
+  </a>
+</div>
 
 ## ☎️ Connect with me
 
 <p align="center">
-<a href="https://fb.com/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="threalwinky" height="30" width="40" /></a>
-<a href="https://instagram.com/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="threalwinky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="threalwinky" height="30" width="40" /></a>
-<a href="https://discord.gg/http://discordapp.com/users/895657024933724190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/895657024933724190" height="30" width="40" /></a>
+  <a href="https://fb.com/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="threalwinky" height="30" width="40" /></a>
+  <a href="https://instagram.com/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="threalwinky" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/threalwinky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="threalwinky" height="30" width="40" /></a>
+  <a href="https://discord.gg/http://discordapp.com/users/895657024933724190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/895657024933724190" height="30" width="40" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/44/e0/bb/44e0bbb84b90bdb133e5e155a84332e5.gif" width=500 />
-</p>
-
-<p align="center">
-  <em>“If music be the food of love, play on.”</em>
-</p>
-
