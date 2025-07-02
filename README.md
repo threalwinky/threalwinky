@@ -17,23 +17,6 @@
 
 - [Arch Linux](https://archlinux.org/) / [Alacritty](https://alacritty.org/) / [Sway](https://swaywm.org/) / [thunar](https://github.com/neilbrown/thunar) / [waybar](https://github.com/Alexays/Waybar) / [rofi](https://github.com/davatorium/rofi)
 
-## Hobby
-
-- I enjoy listening to music — especially pop, ballads, EDM, and every song by <strong>Nightcord at 25:00</strong>.
-
-<div align=center ">
-
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z4hwucc4g3x3klr2ezheobh2ee&redirect=true">
-      <img  src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317kafuqbev46sq43z2u3zjjbpym&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=F60E80&bar_color_cover=false" alt="Spotify Now Playing" width="390" height="120">
-  </a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317kafuqbev46sq43z2u3zjjbpym&unique=true&count=2" alt="Recently Played" width="420" height = "120">
-
-</div>
-
-- Game is a part of my life. I like playing MOBA games and rhythm games.
-
-- I regularly write blogs on [https://threalwinky.github.io](https://threalwinky.github.io)
-
 ## Languages
 
 <p align="center">
